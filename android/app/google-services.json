@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "74264894200",
+    "firebase_url": "https://myappproject-baf86-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myappproject-baf86",
+    "storage_bucket": "myappproject-baf86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74264894200:android:16ca6ccfd56bf363fcb90d",
+        "android_client_info": {
+          "package_name": "com.company.myfbapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphv25HR75BQprCA_BAEecdBiDL8iw1yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74264894200:android:d904d055cce1f2e6fcb90d",
+        "android_client_info": {
+          "package_name": "com.example.bookmyshow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphv25HR75BQprCA_BAEecdBiDL8iw1yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74264894200:android:140e10ebb121b857fcb90d",
+        "android_client_info": {
+          "package_name": "com.example.fbdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphv25HR75BQprCA_BAEecdBiDL8iw1yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
